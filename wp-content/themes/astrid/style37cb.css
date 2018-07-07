@@ -17,6 +17,16 @@ Astrid is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic,
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 
 */
+
+/* josefin-sans-regular - latin */
+/* josefin-sans-regular - latin */
+@font-face {
+  font-family: 'Josefin Sans';
+  src: local('Josefin Sans Regular'), local('JosefinSans-Regular'),
+       url('fonts/josefin-sans-v12-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/josefin-sans-v12-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
