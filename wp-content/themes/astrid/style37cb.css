@@ -22,7 +22,7 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 @font-face {
   font-family: 'Josefin Sans';
   src: 
-		url('fonts/JosefinSans-Regular.ttf') format('truetype')
+		url('fonts/JosefinSans-Light.ttf') format('truetype')
 }
 
 body {
