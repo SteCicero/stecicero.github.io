@@ -1,0 +1,38 @@
+# site settings
+title: Stefano Cicero
+subtitle: personal website
+email: stefano.cicero@me.com
+description: I use this website mainly as a public archive for past projects, but you'll also find generic information about me, my resume and direct email contact. Please take a look around, and feel free to contact me for any comment/suggestion!
+baseurl: 
+url: https://www.stefanocicero.it
+author: Stefano Cicero
+street_address: 1234 Somewhere Road
+city: Pisa
+state: TN
+zip_code: 55555
+country: Italy
+phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/SteCicero
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/stefanocicero/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/4tomX
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+permalink: /:title
